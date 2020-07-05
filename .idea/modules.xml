@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAlquran.iml" filepath="$PROJECT_DIR$/MyAlquran.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-alquran.iml" filepath="$PROJECT_DIR$/my-alquran.iml" group="my-alquran" />
+      <module fileurl="file://$PROJECT_DIR$/app/my-alquran-app.iml" filepath="$PROJECT_DIR$/app/my-alquran-app.iml" group="my-alquran/app" />
     </modules>
   </component>
 </project>

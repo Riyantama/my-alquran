@@ -11,6 +11,7 @@ public class QuranDAO extends DBHelper {
 
     public QuranDAO(Context context) {
         super(context);
+
     }
 
     public List<Item> getListDataWhereCriteria(String table, Integer value) {
